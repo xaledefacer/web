@@ -1,1 +1,1 @@
-http://xale.github.io
+http://xaledefacer.github.io/web
